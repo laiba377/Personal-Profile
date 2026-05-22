@@ -16,6 +16,9 @@ A modern and responsive personal profile Page built using HTML, CSS, JavaScript,
 - JavaScript
 - PHP
 
+## 🌐 Live Demo
+https://laiba377.github.io/Personal-Profile/
+
 ## 📸 Screenshot
 
 ![Portfolio Screenshot](Profile.Screenshot.png)
