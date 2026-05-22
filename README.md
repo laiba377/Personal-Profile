@@ -16,5 +16,8 @@ A modern and responsive personal profile Page built using HTML, CSS, JavaScript,
 - JavaScript
 - PHP
 
+## 📸 Screenshot
+
+![Portfolio Screenshot](Profile.Screenshot.png)
 ## Author
 Laiba Tul Janat
